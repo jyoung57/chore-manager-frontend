@@ -20,7 +20,7 @@ export default function Home() {
 
   return (
     <>
-      <header>
+      {/* <header>
         <nav className="p-5 border border-blue-600">
           <h1 className="text-3xl text-blue-600">Chore Manager</h1>
         </nav>
@@ -29,7 +29,7 @@ export default function Home() {
         <div className="p-5 border w-full h-full border-blue-600">
           <h2 className="text-2xl text-blue-700">Chore</h2>
         </div>
-      </main>
+      </main> */}
     </>
   );
 }
